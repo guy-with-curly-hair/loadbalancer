@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>MyCode</groupId>
-    <artifactId>LodBalancer</artifactId>
+    <artifactId>LoadBalancer</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
